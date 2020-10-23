@@ -16,3 +16,11 @@
   font-size: 30px;
   padding: 8px;
 }
+
+.sidebarChannel {
+  overflow: scroll;
+}
+
+.sidebarChannel::-webkit-scrollbar {
+  display: none;
+}
